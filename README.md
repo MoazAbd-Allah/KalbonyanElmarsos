@@ -38,15 +38,19 @@
 # 🟣 MERN-Stack
 ![Udemy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/512px-Udemy_logo.svg.png)
 
+## HTML&CSS 
+`in progress` `37.5h` - 11 - [Build Responsive Real-World Websites with HTML and CSS
+](Udemy/The-Complete-JavaScript-Course-2022-From-Zero-to-Expert!)
+
 ## JavaScript 
-`in progress` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](Udemy/The-Complete-JavaScript-Course-2022-From-Zero-to-Expert!)
+`in progress` `69h` - 12 - [The Complete JavaScript Course 2022: From Zero to Expert!](Udemy/The-Complete-JavaScript-Course-2022-From-Zero-to-Expert!)
 
 ## ReactJs 
-`in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](Udemy/React-The-Complete-Guide-incl-Hooks-React-Router-Redux) 
+`in progress` `48h` - 13 - [React - The Complete Guide (incl Hooks, React Router, Redux)](Udemy/React-The-Complete-Guide-incl-Hooks-React-Router-Redux) 
 
 
 ## NodeJs
- `in progress` `46h` - 15 - [Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)](Udemy/Complete-NodeJS-Developer-in-2022-GraphQL-MongoDB-more)
+ `in progress` `46h` - 14 - [Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)](Udemy/Complete-NodeJS-Developer-in-2022-GraphQL-MongoDB-more)
 
 
 
@@ -59,7 +63,7 @@
 ![AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png)
 
 
- `in progress` `35h` - 17 - [AWS Certified Solutions Architect Associate (SAA-C02)](aGuruCloud/AWS%20Certified%20Solutions%20Architect%20Associate%20(SAA-C02))
+ `in progress` `35h` - 15 - [AWS Certified Solutions Architect Associate (SAA-C02)](aGuruCloud/AWS%20Certified%20Solutions%20Architect%20Associate%20(SAA-C02))
 
 
 
@@ -71,4 +75,4 @@
 #  🔴 Learn How to Make serverless web applications
 ![Serverless](https://www.kaliop.com/app/uploads/2019/01/serverless_color-1.png)
 
--  `in progress` - 18 - [Serverless Stack (SST)](serverless-stack-project/)
+-  `in progress` - 16 - [Serverless Stack (SST)](serverless-stack-project/)
